@@ -1,0 +1,15 @@
+{
+"address1": "string",
+"address2": "string",
+"airEnabled": true,
+"billing": "StandAlone",
+"clientContactNumber": "string",
+"clientName": "KVTEST_6 inc",
+"clientShortName": "KVTEST_6",
+"companyDetail":
+{ "address": "string", "airEnabled": true, "companyName": "nvo inc ", "country": "U.S.A.", "emailAddress": "kristt@cargopshere.com", "landEnabled": true, "loginId": "nvo", "masterEmailAddress": "krishtt@cargosphere.com", "masterLoginId": "dmaster", "masterUserName": "dmaster", "seaEnabled": true, "userName": "krishna1" },
+"deploymentType": "S",
+"environmentType": "KVTEST_6",
+"landEnabled": true,
+"sudsEnabled": true
+}

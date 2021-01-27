@@ -1,0 +1,740 @@
+{
+  "Environment": "qaauto",
+  "User": "qaauto_super",
+  "UserPass": "pass",
+  "Contracts": [
+    {
+      "ContractName": "Contract1oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Boat"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract2oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Glass"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract3oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Auto"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract4oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Cotton"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract5oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "car"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract6oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "PEAS"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract7oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "BRUSH"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract8oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "PAINT"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract9oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "BRACELET"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract10oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "BRUSH"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract11oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Gel"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract12oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "COSMETICS"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract13oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Transformer"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft",
+        "Cntr. 40 ft",
+        "Cntr. 40 ft HC",
+        "Cntr. 45 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        },
+        {
+          "Origin": "Charleston"
+        },
+        {
+          "Origin": "Baltimore"
+        },
+        {
+          "Origin": "Norfolk"
+        },
+        {
+          "Origin": "Tacoma"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        },
+        {
+          "Destination": "Shanghai"
+        },
+        {
+          "Destination": "Paris"
+        },
+        {
+          "Destination": "Yantian"
+        },
+        {
+          "Destination": "Hong Kong"
+        }
+      ],
+      "Rates": [
+        "100",
+        "200",
+        "300",
+        "400",
+        "100",
+        "200",
+        "300",
+        "400",
+        "100",
+        "200",
+        "300",
+        "400",
+        "100",
+        "200",
+        "300",
+        "400",
+        "100",
+        "200",
+        "300",
+        "400"
+      ]
+    },
+    {
+      "ContractName": "Contract14oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "treadmill"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract15oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Cotton"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "MultiContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Tofu"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft",
+        "Cntr. 40 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Charleston"
+        },
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Shanghai"
+        },
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100",
+        "200",
+        "100",
+        "200"
+      ],
+      "SurchargeData": {
+        "LevelOneSurcharges": [
+          {
+            "Term": "BAF",
+            "Applicability": "Applicable",
+            "Category": "Origin",
+            "PriceBy": "Per Container",
+            "Amount": "20",
+            "Currency": "EUR Euro",
+            "ExcludeFromTotal": "No",
+            "ContainerType": "Cntr. 20 ft",
+            "Origin": "Atlanta, U.S.A. (Port)",
+            "Destination": "Yantian, China (Port)"
+          }
+        ]
+      }
+    },
+    {
+      "ContractName": "Contract17oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "PEAS"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract18oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "BRUSH"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract19oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "PAINT"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract20oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "BRACELET"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract21oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "BRUSH"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    },
+    {
+      "ContractName": "Contract22oneContainerLocation",
+      "Carrier": "MAEU",
+      "TradeLane": "Asia to USA",
+      "CommodityGroup": {
+        "CommodityGroupName": "test",
+        "Commodities": [
+          "Gel"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft"
+      ],
+      "Origins": [
+        {
+          "Origin": "Atlanta"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Yantian"
+        }
+      ],
+      "Rates": [
+        "100"
+      ]
+    }
+  ]
+}

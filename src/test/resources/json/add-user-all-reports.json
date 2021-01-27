@@ -1,0 +1,211 @@
+{
+	"company": {
+		"id": 1
+	},
+	"clientViewId": 800,
+	"userName": "Testing Sample 1",
+	"loginId": "testsample1",
+	"userType": {
+		"id": 1,
+		"name": "Super User"
+	},
+	"businessUnit": {
+		"id": 0
+	},
+	"contactInfo": {
+		"email": "testingsample@cargosphere.com",
+		"country": {
+			"countryCode": "US",
+			"country": "U.S.A."
+		},
+		"address1": "",
+		"address2": "",
+		"city": "",
+		"state": "",
+		"postalCode": "",
+		"phone": "",
+		"cellPhone": ""
+	},
+	"active": true,
+	"land": false,
+	"sea": true,
+	"air": false,
+	"deleted": false,
+	"sendWelcomeEmail": true,
+	"permissions": {
+		"rateSearch": true,
+		"rateManagement": false,
+		"quoting": false,
+		"fmc": false,
+		"reports": true,
+		"accountAdmin": false,
+		"systemAdmin": false,
+		"rateMesh": false
+	},
+	"userRateSearchInfo": {
+		"rateSearchScopeToggle": true,
+		"rateSearchAllScopes": "allScopes",
+		"rateSearchNamedAcctToggle": true,
+		"rateSearchAllNamedAccts": "allNamedAccts",
+		"rateSearchFclBuyToggle": true,
+		"rateSearchFclBuyRatesLoc": [
+			{
+				"origins": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				],
+				"destinations": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				]
+			}
+		],
+		"rateSearchLclBuyToggle": true,
+		"rateSearchLclBuyRatesLoc": [
+			{
+				"origins": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				],
+				"destinations": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				]
+			}
+		],
+		"rateSearchFclSellToggle": true,
+		"rateSearchFclSellRatesLoc": [
+			{
+				"origins": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				],
+				"destinations": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				]
+			}
+		],
+		"rateSearchLclSellToggle": true,
+		"rateSearchLclSellRatesLoc": [
+			{
+				"origins": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				],
+				"destinations": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				]
+			}
+		],
+		"rateSearchMarkUpToggle": true,
+		"rateSearchMra1Toggle": true,
+		"rateSearchMra1RatesLoc": [
+			{
+				"origins": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				],
+				"destinations": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				]
+			}
+		],
+		"rateSearchMra2Toggle": true,
+		"rateSearchMra2RatesLoc": [
+			{
+				"origins": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				],
+				"destinations": [
+					{
+						"countryCode": "00",
+						"country": "World"
+					}
+				]
+			}
+		]
+	},
+	"userRateMgmtInfo": {
+		"rateMgmtManageCarrierContracts": false,
+		"rateMgmtSelContracts": [],
+		"rateMgmtInternalOwner": false,
+		"rateMgmtManageGlobalSur": false
+	},
+	"userQuotingInfo": {
+		"quotingRateReqsCreate": false,
+		"quotingCustomerQuotesCreate": false,
+		"quotingCustomerQuotesManage": false,
+		"quotingCustomerQuotesView": false
+	},
+	"userFmcInfo": {
+		"fmcCreateAndManageTariffs": false,
+		"fmcReviewAndReleaseTariffs": false,
+		"fmcViewTariffs": false,
+		"fmcViewTariffsAsFMCUsr": false,
+		"fmcNRAs": false
+	},
+	"userReportsInfo": {
+		"reportingView": true,
+		"reportingViewOption": "allReports",
+		"dashboardsView": true,
+		"dashboardsViewOption": "allDashboards",
+		"reportingViewSystemUsage": true,
+		"reportingViewQuoteAnalytics": true
+	},
+	"userAccountAdminInfo": {
+		"accAdminManageUsers": false,
+		"accAdminManageCustsAndExtrAgents": false,
+		"accAdminManageCarriers": false,
+		"accAdminManageFMCTariffUsrs": false,
+		"accAdminManageTariffOrgRec": false
+	},
+	"userSystemAdminInfo": {
+		"sysAdminManageCompProfile": false,
+		"sysAdminManageBussUnit": false,
+		"sysAdminManageSysUsers": false,
+		"sysAdminManageAppSettings": false,
+		"sysAdminManageIpAddrsPerms": false,
+		"sysAdminManageCountryRestrs": false,
+		"sysAdminManageIndCommGrps": false,
+		"sysAdminManageContactMarkup": false,
+		"sysAdminManageMraDicounts": false,
+		"sysAdminManageMraDicountsMRA1": false,
+		"sysAdminManageMraDicountsMRA2": false,
+		"sysAdminManageQuoteSetting": false,
+		"sysAdminManageQutStngCurrBump": false,
+		"sysAdminManageQutStngCustAccs": false,
+		"sysAdminManageQutStngQuotePckg": false,
+		"sysAdminManageQutStngDisclaimers": false,
+		"sysAdminManageQutStngTrmsConditions": false,
+		"sysAdminManageQutStngGblFwdBrkFees": false
+	},
+	"userRateMeshInfo": {
+		"rateMeshManageConnections": true
+	}
+}

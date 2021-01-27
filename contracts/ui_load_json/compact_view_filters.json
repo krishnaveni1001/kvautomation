@@ -1,0 +1,155 @@
+{
+  "Environment": "qaauto",
+  "User": "qaauto_super",
+  "UserPass": "pass",
+  "Contracts": [
+    {
+      "ContractName": "Test Contract 1",
+      "Carrier": "EGLV",
+      "Owner": "We Do",
+      "TradeLane": "U.S. to Europe",
+      "CommodityGroup": {
+        "CommodityGroupName": "Ski Equipment",
+        "Commodities": [
+          "Ski Boots",
+          "Ski Poles"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft", "Cntr. 40 ft"
+      ],
+      "ServiceType": "Break Bulk",
+      "ServiceString": "Test Service String 1",
+      "Vessel": "Test Vessel 1",
+      "RateType": "Test Rate Type 1",
+      "NamedAccountGroup": {
+        "NamedAccountGroupName": "Test Named Account Group 1",
+        "NamedAccounts": [
+          "Test Named Account 1",
+          "Test Named Account 2"
+        ]
+      },
+      "RateTypeTwo": "Test Rate Type Two 1",
+      "AddOn": "Origins and Destinations Allowed",
+      "Origins": [
+        {
+          "Origin": "Charleston",
+          "Routing": "Panama City"
+        },
+        {
+          "Origin": "Jacksonville"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Antwerp",
+          "Routing": "London"
+        },
+        {
+          "Destination": "Antwerp"
+        }
+      ],
+      "Rates": [
+        "1200",
+        "1420",
+        "1400",
+        "1440"
+      ]
+    },
+    {
+      "ContractName": "Test Contract 2",
+      "Carrier": "MAEU",
+      "Owner": "We Do",
+      "TradeLane": "U.S. to Europe",
+      "CommodityGroup": {
+        "CommodityGroupName": "Archery Equipment",
+        "Commodities": [
+          "Bow and Arrow",
+          "Archery Targets"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft", "Cntr. 40 ft", "Cntr. 40 ft HC"
+      ],
+      "ServiceType": "All Motor",
+      "ServiceString": "Test Service String 2",
+      "Vessel": "Test Vessel 2",
+      "RateType": "Test Rate Type 2",
+      "RateTypeTwo": "Test Rate Type Two 2",
+      "AddOn": "Not Allowed",
+      "Origins": [
+        {
+          "Origin": "Charleston"
+        },
+        {
+          "Origin": "Jacksonville"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Antwerp"
+        },
+        {
+          "Destination": "Zeebrugge"
+        }
+      ],
+      "Rates": [
+        "1200",
+        "1420",
+        "1400",
+        "1440",
+        "1520",
+        "1240"
+      ]
+    },
+    {
+      "ContractName": "Test Contract 3",
+      "Carrier": "ANLC",
+      "Owner": "We Do",
+      "TradeLane": "U.S. to Europe",
+      "CommodityGroup": {
+        "CommodityGroupName": "Bicycle Equipment",
+        "Commodities": [
+          "Bicycle Helmets",
+          "Bicycle Frames"
+        ],
+        "FAK": false,
+        "HazardousIndicator": "n",
+        "CommodityGroupType": "global"
+      },
+      "ContainerTypes": [
+        "Cntr. 20 ft", "Cntr. 40 ft", "Cntr. 40 ft HC"
+      ],
+      "Origins": [
+        {
+          "Origin": "Charleston"
+        },
+        {
+          "Origin": "Jacksonville"
+        }
+      ],
+      "Destinations": [
+        {
+          "Destination": "Antwerp"
+        },
+        {
+          "Destination": "Zeebrugge"
+        }
+      ],
+      "Rates": [
+        "1100",
+        "1400",
+        "1390",
+        "1540",
+        "1500",
+        "1345"
+      ]
+    }
+  ]
+}
